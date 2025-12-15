@@ -1,0 +1,14 @@
+{
+	"geode": "4.9.0",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "flozwer.paimbnails_api",
+	"name": "PaimbNails Api",
+	"version": "v1.0.0",
+	"developer": "flozwer",
+	"description": "PaimbNails Api for paimbnails",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
